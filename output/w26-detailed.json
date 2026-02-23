@@ -1,0 +1,1559 @@
+[
+  {
+    "name": "Martini",
+    "slug": "martini",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://martini.film",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:39.282Z",
+    "details": {
+      "basic": {
+        "slug": "martini",
+        "name": "🍸 Introduction",
+        "description": "Collaborative AI-native filmmaking for professionals. Founded in 2025 by Long Hoang and Koh Terai, Martini has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Long Hoang",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Koh Terai",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Martini",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:39.258Z"
+    }
+  },
+  {
+    "name": "Condor Energy",
+    "slug": "condor-energy",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Industrials",
+    "founders": "",
+    "website": "",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:35.937Z",
+    "details": {
+      "basic": {
+        "slug": "condor-energy",
+        "name": "condor-energy",
+        "description": "Energy system enabling reliable, cheap and sustainable electricity... Founded in 2026 by Jean Costa de Beauregard, Clément Grivel, and Florian Pérocheau, Condor Energy has 3 employees based in .",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2026Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Jean Costa de Beauregard",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Clément Grivel",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Florian Pérocheau",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Condor Energy",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:35.896Z"
+    }
+  },
+  {
+    "name": "Resonate",
+    "slug": "resonate",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Consumer",
+    "founders": "",
+    "website": "https://resonate.audio",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:35.599Z",
+    "details": {
+      "basic": {
+        "slug": "resonate",
+        "name": "resonate",
+        "description": "The first AI-native messaging platform. Founded in 2025 by Sam Kaplan, Resonate has 0 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Sam Kaplan",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:35.563Z"
+    }
+  },
+  {
+    "name": "Shofo",
+    "slug": "shofo",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://shofo.ai/",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:47.900Z",
+    "details": {
+      "basic": {
+        "slug": "shofo",
+        "name": "shofo",
+        "description": "Common Crawl for Videos. Founded in 2025 by Andre Braga, Braiden Dishman, Bryan Hong, and Alexzendor Misra, Shofo has 4 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Andre Braga",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Braiden Dishman",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Bryan Hong",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Alexzendor Misra",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:47.875Z"
+    }
+  },
+  {
+    "name": "Aurorin CAD",
+    "slug": "aurorin-cad",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://aurorincad.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:43.171Z",
+    "details": {
+      "basic": {
+        "slug": "aurorin-cad",
+        "name": "aurorin-cad",
+        "description": "We help hardware companies ship faster. Founded in 2026 by Michael Baron, Aurorin CAD has 1 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2026Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Michael Baron",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Aurorin CAD",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:43.163Z"
+    }
+  },
+  {
+    "name": "DAIVIN!",
+    "slug": "daivin",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Industrials",
+    "founders": "",
+    "website": "https://www.daivin.tech/",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:47.885Z",
+    "details": {
+      "basic": {
+        "slug": "daivin",
+        "name": "❌ The Problem",
+        "description": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space. Founded in 2025 by Leo Kankkunen, DAIVIN! has 1 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Leo Kankkunen",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "DAIVIN!",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "crunchbase": "https://www.crunchbase.com/organization/daivin#overview"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:47.823Z"
+    }
+  },
+  {
+    "name": "GrazeMate",
+    "slug": "grazemate",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Industrials",
+    "founders": "",
+    "website": "https://grazemate.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:53.589Z",
+    "details": {
+      "basic": {
+        "slug": "grazemate",
+        "name": "grazemate",
+        "description": "Robot Cowboys that Herd Cattle with AI Drones. Founded in 2025 by Sam Rogers, GrazeMate has 4 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Sam Rogers",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:53.567Z"
+    }
+  },
+  {
+    "name": "Librar Labs",
+    "slug": "librar-labs",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://www.librarlabs.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:52.268Z",
+    "details": {
+      "basic": {
+        "slug": "librar-labs",
+        "name": "librar-labs",
+        "description": "Intelligence for physical knowledge starting with libraries. Founded in 2026 by Jonathan Görtz, Carl-Hugo Jacobsson, Sina Kenes, and Kaan Sirin, Librar Labs has 4 employees based in .",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2026Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Jonathan Görtz",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Carl-Hugo Jacobsson",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Sina Kenes",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Kaan Sirin",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Librar Labs",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:52.218Z"
+    }
+  },
+  {
+    "name": "Zymbly",
+    "slug": "zymbly",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://www.zymbly.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:53.260Z",
+    "details": {
+      "basic": {
+        "slug": "zymbly",
+        "name": "zymbly",
+        "description": "Automates admin for aircraft technicians. Founded in  by Robbie Bourke, Azmat Habibullah, and Ben Jacob, Zymbly has 0 employees based in .",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "",
+        "headquarters": "",
+        "website": "",
+        "industry": ". He's also a competitive weightlifter and aspiring polyglot.Azmat Habibullah FounderAzmat is co-founder and CTO of Zymbly. He holds a Master's in Mathematics from Imperial College London"
+      },
+      "fullDescription": "",
+      "founders": [],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [
+        ". He's also a competitive weightlifter and aspiring polyglot.Azmat Habibullah FounderAzmat is co-founder and CTO of Zymbly. He holds a Master's in Mathematics from Imperial College London",
+        "where his research focused on the geometry of quantum mechanics. He started hacking at the age of 11 and spent 4 years building ML models and software for enterprises in highly regulated industries. He's also a competitive weightlifter and aspiring polyglot.Ben Jacob FounderBen is the co-founder and CEO of Zymbly. Before Zymbly",
+        "Ben led Applied AI at Multiverse (backed by GV",
+        "General Catalyst",
+        "and Index). Ben started his career working with airlines on operational improvement. He worked with one of the world's largest airlines to recover their operations after the pandemic.Ben Jacob FounderBen is the co-founder and CEO of Zymbly. Before Zymbly",
+        "Ben led Applied AI at Multiverse (backed by GV",
+        "General Catalyst",
+        "and Index). Ben started his career working with airlines on operational improvement. He worked with one of the world's largest airlines to recover their operations after the pandemic.Company LaunchesZymbly: The Copilot for Aircraft MaintenanceSee original launch postBen",
+        "Azmat",
+        "and Robbie here; co-founders of Zymbly (YC W26). Zymbly doubles productivity for aircraft technicians with AI. Our agents automate troubleshooting and paperwork. Technicians get to spend their time doing the work they actually signed up for; maintaining planes. https://www.youtube.com/watch?v=zlu5IhcfeeA The Problem: Airlines have a maintenance capacity bottleneck. It is holding back growth. In North America alone",
+        "there is a shortage of 43",
+        "000 technicians forecast by 2027 (25% shortfall). Boeing estimates 710",
+        "000 new technicians are needed in the next 20 years. Technicians are their most precious resource. Yet",
+        "technicians lose half their day to: Troubleshooting: finding the information needed to fix issues and replace parts can take hours as the information is spread across tens of thousands of pages. Paperwork: Any work that is performed needs to be rigorously documented according to pre-defined standards We hear “It takes me 5 mins to change a bulb",
+        "but 45 minutes to do the paperwork” and similar sentiments every day. How Zymbly Solves It: Zymbly’s voice-first agents surface answers across manuals",
+        "local procedures and historical defects. Zymbly surfaces the right solutions and orders the correct parts. It turns voice notes into compliant documentation and audits actions to ensure technicians haven't missed critical steps. Who We Serve: Our customers are maintenance teams either inside airlines",
+        "or working for airlines. Our users are the technicians who keep your planes safe. They prefer to spend their time working on the aircraft",
+        "not on admin. We’ve developed our platform through a design partnership with a major global airline. About Us: Robbie Bourke was Head of Maintenance at Virgin Atlantic and a lead engineer at Airbus. Ben Jacob worked with airlines to recover their operations post-pandemic and led Applied AI at Multiverse (backed by GV/GC/Index). Azmat Habibullah combines hacking from age 11 with building enterprise software in regulated industries. Our Ask: If you work in aviation maintenance or know someone who does we would love to get connected! ben@zymbly.com ZymblyBatch:Winter 2026Status:ActivePrimary Partner:Jared FriedmanFooterY CombinatorMake something people want.ProgramsYC ProgramStartup SchoolWork at a StartupCo-Founder MatchingResourcesStartup DirectoryStartup LibraryInvestorsDemo DaySafeHacker NewsLaunch YCYC DealsCompanyYC BlogContactPressPeopleCareersPrivacy PolicyNotice at CollectionSecurityTerms of UseTwitterTwitterFacebookFacebookInstagramInstagramLinkedInLinkedInYoutubeYouTube© 2026 Y Combinator!function(t",
+        "e){var o",
+        "n",
+        "p",
+        "r;e.__SV||(window.posthog=e",
+        "e._i=[]",
+        "e.init=function(i",
+        "s",
+        "a){function g(t",
+        "e){var o=e.split(\".\");2==o.length&&(t=t[o[0]]",
+        "e=o[1])",
+        "t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments",
+        "0)))}}(p=t.createElement(\"script\")).type=\"text/javascript\"",
+        "p.async=!0",
+        "p.src=s.api_host+\"/static/array.js\"",
+        "(r=t.getElementsByTagName(\"script\")[0]).parentNode.insertBefore(p",
+        "r);var u=e;for(void 0!==a?u=e[a]=[]:a=\"posthog\"",
+        "u.people=u.people||[]",
+        "u.toString=function(t){var e=\"posthog\";return\"posthog\"!==a&&(e+=\".\"+a)",
+        "t||(e+=\" (stub)\")",
+        "e}",
+        "u.people.toString=function(){return u.toString(1)+\".people (stub)\"}",
+        "o=\"capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags\".split(\" \")",
+        "n=0;n<o.length;n++)g(u",
+        "o[n]);e._i.push([i",
+        "s",
+        "a])}",
+        "e.__SV=1)}(document",
+        "window.posthog||[]); posthog.init('phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah'",
+        "{ api_host:'https://app.posthog.com'",
+        "disable_session_recording: true",
+        "persistence: \"localStorage+cookie\"",
+        "loaded: function(posthog) { if (\"\") { posthog.identify(\"\"); } } });"
+      ],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:53.235Z"
+    }
+  },
+  {
+    "name": "Ritivel",
+    "slug": "ritivel",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Healthcare",
+    "founders": "",
+    "website": "https://www.ritivel.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:58.198Z",
+    "details": {
+      "basic": {
+        "slug": "ritivel",
+        "name": "ritivel",
+        "description": "AI-native platform for regulatory document submission. Founded in 2025 by Nirmit Arora, Gunin Gupta, and Pavan Kalyan (a.k.a PK) Tankala, Ritivel has 3 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ". Graduated with a bachelor's from IIT Bombay.Gunin Gupta FounderCofounder and CBO @ Ritivel. Prev. @ AT Kearney focused on sustainability and energy process industries. Graduated with a bachelor's from IIT Bombay.Pavan Kalyan (a.k.a PK) Tankala FounderCofounder and CEO @ Ritivel. Prev. @ Microsoft Research focused on training language models. Graduated from IIT Bombay with Btech + Mtech in Electrical+AI. Published @ Neurips"
+      },
+      "fullDescription": "",
+      "founders": [],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [
+        ". Graduated with a bachelor's from IIT Bombay.Gunin Gupta FounderCofounder and CBO @ Ritivel. Prev. @ AT Kearney focused on sustainability and energy process industries. Graduated with a bachelor's from IIT Bombay.Pavan Kalyan (a.k.a PK) Tankala FounderCofounder and CEO @ Ritivel. Prev. @ Microsoft Research focused on training language models. Graduated from IIT Bombay with Btech + Mtech in Electrical+AI. Published @ Neurips",
+        "ACL",
+        "Interspeech.Pavan Kalyan (a.k.a PK) Tankala FounderCofounder and CEO @ Ritivel. Prev. @ Microsoft Research focused on training language models. Graduated from IIT Bombay with Btech + Mtech in Electrical+AI. Published @ Neurips",
+        "ACL",
+        "Interspeech.Company LaunchesRitivel 💊 AI-native platform for Regulatory Document SubmissionSee original launch postHey everyone 👋 We're Pavan (PK)",
+        "Gunin and Nirmit – co-founders of Ritivel. TL;DR Ritivel is an AI-native workspace for regulatory and medical writing teams at life sciences companies. Our AI agents draft CTDs",
+        "CSRs",
+        "INDs",
+        "and BLAs in minutes instead of weeks",
+        "helping drugs reach patients faster. Ask: Can you introduce us to regulatory affairs leaders or CISOs at pharma companies? Contact us at pavan@ritivel.com https://youtu.be/VrqJtPDy_do ❌ The Problem Every month a drug is delayed from reaching the market costs pharma companies ~$45M in lost revenue and more importantly",
+        "delays treatment for thousands of patients who need it. Yet regulatory teams are stuck in a painful",
+        "months-long process to create FDA submissions like CTDs",
+        "CSRs",
+        "INDs",
+        "and BLAs: 1. Information overload 📚 These submissions require synthesizing thousands of pages of clinical data",
+        "prior submissions",
+        "and regulatory guidance which is an overwhelming task even for experienced teams. 2. Document hunting & version chaos 🔄 Teams waste hours digging through SharePoint folders",
+        "juggling multiple document versions",
+        "and chasing colleagues for the right files. 3. Endless follow-ups 📧 Regulatory leads spend their days sending reminder emails",
+        "tracking down missing inputs",
+        "and managing status updates across teams. 4. Manual drafting bottlenecks ⏳ Even with all the information gathered",
+        "the first draft alone takes weeks of painstaking work by highly specialized (and expensive) regulatory writers. 🔧 Our Solution Ritivel deploys AI agents that transform how regulatory teams work: Draft the most common document types like CTDs",
+        "CSRs",
+        "INDs",
+        "and BLAs in minutes ✍️ Our agents generate comprehensive first drafts directly in Microsoft Word",
+        "following FDA formatting requirements and pulling from your existing clinical data and prior submissions. Every data point includes citations linked back to the original source",
+        "so reviewers can verify with one click. Intelligent document retrieval 🔗 Connected to SharePoint and Veeva",
+        "our agents automatically source the right documents from across your organization: no more digging through folders or chasing down files. Automated follow-ups 📧 Integrated with Outlook",
+        "our agents handle reminder emails and follow-ups automatically",
+        "so you're not stuck chasing colleagues for missing documents. Accelerated project management 🚀 By automating the document gathering and drafting loop",
+        "teams can focus on review and refinement rather than administrative overhead. 👬 The Team We're engineers who previously built AI copilots at Microsoft Research. We saw firsthand that we could create better",
+        "more specialized copilots for complex workflows. We started by selling a generic copilot to process-heavy industries like life sciences to understand their regulatory workflows. After 50+ conversations with pharma professionals",
+        "we discovered the critical bottleneck in regulatory submissions and built Ritivel to solve it. 🙏 Our Ask Know someone in pharma regulatory affairs? We'd love an intro to regulatory affairs leaders or CISOs at pharma companies → founders@ritivel.com Work at a life sciences company? Try Ritivel and see the difference → www.ritivel.com Your intro could help get life-saving drugs to patients faster. Thank you! YC PhotosRitivelFounded:2025Batch:Winter 2026Team Size:3Status:ActiveLocation:San FranciscoPrimary Partner:Gustaf Alstromer FooterY CombinatorMake something people want.ProgramsYC ProgramStartup SchoolWork at a StartupCo-Founder MatchingResourcesStartup DirectoryStartup LibraryInvestorsDemo DaySafeHacker NewsLaunch YCYC DealsCompanyYC BlogContactPressPeopleCareersPrivacy PolicyNotice at CollectionSecurityTerms of UseTwitterTwitterFacebookFacebookInstagramInstagramLinkedInLinkedInYoutubeYouTube© 2026 Y Combinator!function(t",
+        "e){var o",
+        "n",
+        "p",
+        "r;e.__SV||(window.posthog=e",
+        "e._i=[]",
+        "e.init=function(i",
+        "s",
+        "a){function g(t",
+        "e){var o=e.split(\".\");2==o.length&&(t=t[o[0]]",
+        "e=o[1])",
+        "t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments",
+        "0)))}}(p=t.createElement(\"script\")).type=\"text/javascript\"",
+        "p.async=!0",
+        "p.src=s.api_host+\"/static/array.js\"",
+        "(r=t.getElementsByTagName(\"script\")[0]).parentNode.insertBefore(p",
+        "r);var u=e;for(void 0!==a?u=e[a]=[]:a=\"posthog\"",
+        "u.people=u.people||[]",
+        "u.toString=function(t){var e=\"posthog\";return\"posthog\"!==a&&(e+=\".\"+a)",
+        "t||(e+=\" (stub)\")",
+        "e}",
+        "u.people.toString=function(){return u.toString(1)+\".people (stub)\"}",
+        "o=\"capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags\".split(\" \")",
+        "n=0;n<o.length;n++)g(u",
+        "o[n]);e._i.push([i",
+        "s",
+        "a])}",
+        "e.__SV=1)}(document",
+        "window.posthog||[]); posthog.init('phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah'",
+        "{ api_host:'https://app.posthog.com'",
+        "disable_session_recording: true",
+        "persistence: \"localStorage+cookie\"",
+        "loaded: function(posthog) { if (\"\") { posthog.identify(\"\"); } } });"
+      ],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:58.168Z"
+    }
+  },
+  {
+    "name": "Pollinate",
+    "slug": "pollinate",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://www.pollinate.tech/",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:57.703Z",
+    "details": {
+      "basic": {
+        "slug": "pollinate",
+        "name": "pollinate",
+        "description": "AI Agents for the supply chain. Founded in 2024 by Corey Berther and Adeep Mitra, Pollinate has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2024Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Corey Berther",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Adeep Mitra",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:57.674Z"
+    }
+  },
+  {
+    "name": "SpotPay",
+    "slug": "spotpay",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Fintech",
+    "founders": "",
+    "website": "https://www.spotpay.ai/",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:41:57.123Z",
+    "details": {
+      "basic": {
+        "slug": "spotpay",
+        "name": "spotpay",
+        "description": "Cross-border Personal Finance on Stablecoins. Founded in 2025 by Thomas Cesare-Herriau and Zsika Phillip, SpotPay has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Thomas Cesare-Herriau",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Zsika Phillip",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:41:57.076Z"
+    }
+  },
+  {
+    "name": "VOYGR",
+    "slug": "voygr",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://voygr.tech",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:02.773Z",
+    "details": {
+      "basic": {
+        "slug": "voygr",
+        "name": "voygr",
+        "description": "Real-world place intelligence for AI apps and agents. Founded in  by Vlad Baskakov and Yarik Markov, VOYGR has  employees based in .",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:02.727Z"
+    }
+  },
+  {
+    "name": "Vela",
+    "slug": "vela",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://tryvela.ai/ps",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:02.452Z",
+    "details": {
+      "basic": {
+        "slug": "vela",
+        "name": "vela",
+        "description": "The AI Scheduling Assistant that truly knows you. Founded in 2025 by Gobhanu Sasankar Korisepati and Saatvik Suryajit Korisepati, Vela has 4 employees based in San Francisco, CA, USA. Vela is hiring for 2 roles in engineering.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Gobhanu Sasankar Korisepati",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Saatvik Suryajit Korisepati",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:02.443Z"
+    }
+  },
+  {
+    "name": "Veriad",
+    "slug": "veriad",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://veriad.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:02.735Z",
+    "details": {
+      "basic": {
+        "slug": "veriad",
+        "name": "veriad",
+        "description": "AI compliance officers. Founded in 2025 by Rohan Mahendraker and Anton Muratov, Veriad has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "Veriad after building and selling internal compliance tools to Fortune 500 companies",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Rohan Mahendraker",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Anton Muratov",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "github": "https://github.com/Veriad-ai"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:02.704Z"
+    }
+  },
+  {
+    "name": "Grade",
+    "slug": "grade",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Fintech",
+    "founders": "",
+    "website": "https://usegrade.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:06.626Z",
+    "details": {
+      "basic": {
+        "slug": "grade",
+        "name": "grade",
+        "description": "Payroll for performance. Founded in 2025 by Lotanna Ezeike and James Heaney, Grade has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Lotanna Ezeike",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "James Heaney",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:06.606Z"
+    }
+  },
+  {
+    "name": "Moda",
+    "slug": "moda",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://modaflows.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:06.752Z",
+    "details": {
+      "basic": {
+        "slug": "moda",
+        "name": "moda",
+        "description": "Sentry for AI. Founded in 2025 by Mohammed Al-Rasheed and Pranav Bedi, Moda has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Mohammed Al-Rasheed",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Pranav Bedi",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:06.732Z"
+    }
+  },
+  {
+    "name": "Fed10",
+    "slug": "fed10",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://www.fed10.ai",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:06.115Z",
+    "details": {
+      "basic": {
+        "slug": "fed10",
+        "name": "fed10",
+        "description": "AI agents that replace your policy consultants. Founded in 2025 by Armand Iorgulescu, Zayan Islam, and Winston Wei, Fed10 has 3 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Armand Iorgulescu",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Zayan Islam",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Winston Wei",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:06.095Z"
+    }
+  },
+  {
+    "name": "Squid",
+    "slug": "squid",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Industrials",
+    "founders": "",
+    "website": "https://squid.energy",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:11.263Z",
+    "details": {
+      "basic": {
+        "slug": "squid",
+        "name": "squid",
+        "description": "AI-powered grid planning in your browser 🦑 (squid.energy). Founded in 2026 by Conor Jones and George Kolokotronis, Squid has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2026Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Conor Jones",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "George Kolokotronis",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "crunchbase": "https://www.crunchbase.com/organization/squid-8289",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:11.220Z"
+    }
+  },
+  {
+    "name": "Crow",
+    "slug": "crow",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://www.usecrow.ai/",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:10.703Z",
+    "details": {
+      "basic": {
+        "slug": "crow",
+        "name": "TL;DR",
+        "description": "Let users control your app through chat. Founded in 2026 by Jai Bhatia and Aryan Vij, Crow has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2026Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Jai Bhatia",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Aryan Vij",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Crow",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:10.682Z"
+    }
+  },
+  {
+    "name": "Scout Out",
+    "slug": "scout-out",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Real Estate and Construction",
+    "founders": "",
+    "website": "https://scoutout.ai/",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:10.156Z",
+    "details": {
+      "basic": {
+        "slug": "scout-out",
+        "name": "scout-out",
+        "description": "AI generated proposals for residential construction projects. Founded in 2026 by Nolan Rossi, Scout Out has 1 employees based in San Francisco, CA, USA. Scout Out is hiring for 1 roles in sales.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2026Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Nolan Rossi",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Scout Out",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:10.135Z"
+    }
+  },
+  {
+    "name": "Booko",
+    "slug": "booko",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://bookoapp.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:18.281Z",
+    "details": {
+      "basic": {
+        "slug": "booko",
+        "name": "booko",
+        "description": "Dynamic pricing for businesses that sell time slots. Founded in 2025 by Will Hall and Arjun Saluja, Booko has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Will Hall",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Arjun Saluja",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:18.246Z"
+    }
+  },
+  {
+    "name": "Corelayer",
+    "slug": "corelayer",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://www.corelayer.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:17.970Z",
+    "details": {
+      "basic": {
+        "slug": "corelayer",
+        "name": "corelayer",
+        "description": "AI on-call engineer that debugs using data. Founded in 2025 by Shipra Jha and Mitch Radhuber, Corelayer has 2 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day",
+        "headquarters": "",
+        "website": "",
+        "industry": "like financial services and fintech"
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Shipra Jha",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Mitch Radhuber",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [
+        "like financial services and fintech",
+        "healthcare",
+        "and insurance. On-call engineers in these industries need to inspect data to debug production issues. We monitor both data and infrastructure for issues and use AI agents to debug and suggest fixes in minutes. Data is especially sensitive in regulated industries",
+        "so we offer on-prem deployments and hardware-backed secure environments that let agents safely use production data as context while debugging. Mitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs",
+        "where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.Active FoundersShipra Jha FounderCo-Founder & CTO @ Corelayer | Building the AI-native operations layer for production software and data systems. Prev: software + data infra @ Goldman Sachs",
+        "cloud infra @ Oracle",
+        "CS @ CMUShipra Jha FounderCo-Founder & CTO @ Corelayer | Building the AI-native operations layer for production software and data systems. Prev: software + data infra @ Goldman Sachs",
+        "cloud infra @ Oracle",
+        "CS @ CMUMitch Radhuber FounderCo-Founder & CEO @ Corelayer | Building the AI-native operations layer for production software and data systems. Prev: software + data infra @ Goldman Sachs",
+        "CS @ UMich",
+        "astrophysics research @ PrincetonMitch Radhuber FounderCo-Founder & CEO @ Corelayer | Building the AI-native operations layer for production software and data systems. Prev: software + data infra @ Goldman Sachs",
+        "CS @ UMich",
+        "astrophysics research @ PrincetonCompany LaunchesCorelayer: AI on-call engineer for data pipelinesSee original launch postHey everyone! 👋 We’re Mitch and Shipra - before Corelayer",
+        "we built data infrastructure at Goldman Sachs where we spent many late nights and weekends debugging systems that processed 100s of billions of rows a day. TL;DR When you’re on call in data-heavy industries like fintech",
+        "healthcare",
+        "or insurance",
+        "you need to inspect data to debug production issues. We built a platform that monitors both data and infrastructure for anomalies and uses AI agents to debug and suggest fixes in minutes. Corelayer Launch Video On-call support is painful and expensive All engineers hate being on call. Production issues kill velocity",
+        "erode user trust",
+        "and become more and more costly as companies scale. Fortune 100s spend $100M+/year on first-line-of-defense production support. Smaller companies can’t afford to burn scarce engineering resources on time-consuming support and maintenance. The (sensitive) data problem If you’re a backend engineer at a fintech",
+        "you probably own a service that queries data",
+        "applies some business logic",
+        "and stores the result somewhere (i.e.",
+        "a data pipeline). When this service is running in production",
+        "you’ll see two failure modes: Exceptions in logs and/or failing jobs Bad data produced by your service “Bad data” can mean anything from incorrect values to entirely missing or duplicated rows. This is really common in certain products and industries",
+        "but you’re totally blind to these errors without monitoring data for anomalies and querying data while debugging. In regulated environments where this problem is prevalent",
+        "production data is sensitive",
+        "which is another constraint we have to solve for. Corelayer solves this We continuously monitor logs",
+        "metrics",
+        "and data for anomalies and use AI agents to debug",
+        "root-cause",
+        "and suggest fixes for issues. We also filter out false positives and group related issues to reduce alert noise. Every team is different. We take feedback from human engineers so our agents learn your systems and improve over time. Data is especially sensitive in regulated industries. We’re SOC 2 compliant",
+        "offer on-prem deployments and confidential compute (hardware-backed secure environments)",
+        "and expose an audit trail of each step performed by the agent with citations. Our Asks Does your team deal with data or integrations and spend more time on production support than you’d like? Let’s chat. Can you connect us with an engineering leader at a finserv",
+        "fintech",
+        "healthcare",
+        "or insurance company? Reach out at founders@corelayer.com. Thank you! CorelayerFounded:2025Batch:Winter 2026Team Size:2Status:ActiveLocation:San FranciscoPrimary Partner:Diana Hu FooterY CombinatorMake something people want.ProgramsYC ProgramStartup SchoolWork at a StartupCo-Founder MatchingResourcesStartup DirectoryStartup LibraryInvestorsDemo DaySafeHacker NewsLaunch YCYC DealsCompanyYC BlogContactPressPeopleCareersPrivacy PolicyNotice at CollectionSecurityTerms of UseTwitterTwitterFacebookFacebookInstagramInstagramLinkedInLinkedInYoutubeYouTube© 2026 Y Combinator!function(t",
+        "e){var o",
+        "n",
+        "p",
+        "r;e.__SV||(window.posthog=e",
+        "e._i=[]",
+        "e.init=function(i",
+        "s",
+        "a){function g(t",
+        "e){var o=e.split(\".\");2==o.length&&(t=t[o[0]]",
+        "e=o[1])",
+        "t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments",
+        "0)))}}(p=t.createElement(\"script\")).type=\"text/javascript\"",
+        "p.async=!0",
+        "p.src=s.api_host+\"/static/array.js\"",
+        "(r=t.getElementsByTagName(\"script\")[0]).parentNode.insertBefore(p",
+        "r);var u=e;for(void 0!==a?u=e[a]=[]:a=\"posthog\"",
+        "u.people=u.people||[]",
+        "u.toString=function(t){var e=\"posthog\";return\"posthog\"!==a&&(e+=\".\"+a)",
+        "t||(e+=\" (stub)\")",
+        "e}",
+        "u.people.toString=function(){return u.toString(1)+\".people (stub)\"}",
+        "o=\"capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags\".split(\" \")",
+        "n=0;n<o.length;n++)g(u",
+        "o[n]);e._i.push([i",
+        "s",
+        "a])}",
+        "e.__SV=1)}(document",
+        "window.posthog||[]); posthog.init('phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah'",
+        "{ api_host:'https://app.posthog.com'",
+        "disable_session_recording: true",
+        "persistence: \"localStorage+cookie\"",
+        "loaded: function(posthog) { if (\"\") { posthog.identify(\"\"); } } });"
+      ],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:17.838Z"
+    }
+  },
+  {
+    "name": "General Legal",
+    "slug": "general-legal",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://general.legal",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:18.061Z",
+    "details": {
+      "basic": {
+        "slug": "general-legal",
+        "name": "general-legal",
+        "description": "The AI native law firm for growth stage companies. Founded in 2025 by J.P. Mohler, Javed Qadruddin, and Ryan Walker, General Legal has 3 employees based in .",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator",
+        "github": "https://github.com/general-legal"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:17.941Z"
+    }
+  },
+  {
+    "name": "Fort",
+    "slug": "fort",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Consumer",
+    "founders": "",
+    "website": "https://fort.cx",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:24.452Z",
+    "details": {
+      "basic": {
+        "slug": "fort",
+        "name": "fort",
+        "description": "Wearable that tracks strength. Founded in 2025 by Miranda Nover, Paul Schneider, and Zac Valles, Fort has 3 employees based in .",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Miranda Nover",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Paul Schneider",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Zac Valles",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:24.385Z"
+    }
+  },
+  {
+    "name": "Balance",
+    "slug": "getbalance",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://getbalance.ai",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:23.827Z",
+    "details": {
+      "basic": {
+        "slug": "getbalance",
+        "name": "getbalance",
+        "description": "Full-Stack AI Accounting. Founded in 2026 by Gus Levinson, Mathias Løvring, and Emil Munk, Balance has 4 employees based in .",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "Carlie",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Gus Levinson",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Mathias Løvring",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Emil Munk",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Balance",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:23.793Z"
+    }
+  },
+  {
+    "name": "Chasi",
+    "slug": "chasi",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://chasi.co/",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:22.629Z",
+    "details": {
+      "basic": {
+        "slug": "chasi",
+        "name": "chasi",
+        "description": "AI Concierge for Equipment sales, service & rentals. Founded in 2025 by Sarman Aulakh and Akash Pavan, Chasi has 2 employees based in New York, NY, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Sarman Aulakh",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Akash Pavan",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:22.586Z"
+    }
+  },
+  {
+    "name": "o11",
+    "slug": "o11",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://o11.ai",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:29.797Z",
+    "details": {
+      "basic": {
+        "slug": "o11",
+        "name": "o11",
+        "description": "The Most Integrated M365 AI Suite. Founded in 2025 by Ajay Misra and Aryah Oztanir, o11 has 4 employees based in San Francisco, CA, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "era0",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Ajay Misra",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Aryah Oztanir",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "twitter": "https://twitter.com/ycombinator",
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "crunchbase": "https://www.crunchbase.com/organization/o11"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:29.782Z"
+    }
+  },
+  {
+    "name": "Sequence Markets",
+    "slug": "sequence-markets",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "Fintech",
+    "founders": "",
+    "website": "https://sequencemkts.com/",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:30.110Z",
+    "details": {
+      "basic": {
+        "slug": "sequence-markets",
+        "name": "sequence-markets",
+        "description": "Smarter and faster trade execution for digital assets. Founded in 2026 by Muhammad Awan and Peter Bai, Sequence Markets has 5 employees based in New York, NY, USA.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2026Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Muhammad Awan",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Peter Bai",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Sequence Markets",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:29.968Z"
+    }
+  },
+  {
+    "name": "Servo7",
+    "slug": "servo7",
+    "description": "",
+    "batch": "Winter 2026",
+    "industry": "B2B",
+    "founders": "",
+    "website": "https://servo7.com",
+    "launchDate": "",
+    "scrapedAt": "2026-02-05T15:42:29.164Z",
+    "details": {
+      "basic": {
+        "slug": "servo7",
+        "name": "servo7",
+        "description": "Autonomous Warehouse Robots. Founded in 2025 by Pieter Becking and Jasper van Leuven, Servo7 has  employees based in Amsterdam, Netherlands.",
+        "batch": "Winter 2026",
+        "status": "Active",
+        "founded": "2025Batch",
+        "headquarters": "",
+        "website": "",
+        "industry": ""
+      },
+      "fullDescription": "",
+      "founders": [
+        {
+          "name": "Pieter Becking",
+          "position": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Jasper van Leuven",
+          "position": "",
+          "linkedin": ""
+        }
+      ],
+      "jobs": [],
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/y-combinator/",
+        "twitter": "https://twitter.com/ycombinator"
+      },
+      "tags": [],
+      "team": [],
+      "scrapedAt": "2026-02-05T15:42:29.125Z"
+    }
+  }
+]
